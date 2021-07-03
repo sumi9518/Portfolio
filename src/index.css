@@ -1,0 +1,30 @@
+/* Global */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Navbar */
+.nav-link:hover{
+  color: #198754 !important;
+}
+
+/* Main */
+.img-profile{
+  max-width: 100%;
+  width: 150px;
+}
+
+/* Work */
+.img-work{
+  max-width: 100%;
+  width: 250px;
+}
+
+.bg-grey{
+  background-color: #e9eef5 !important;
+}
+
+/* Footer */
+.footer{
+  height: 150px;
+}
